@@ -1,0 +1,2 @@
+BufferedReader reader = new BufferedReader(new FileReader("file1.txt"));        BufferedWriter writer = new BufferedWriter(new FileWriter("file2.txt", true));BufferedReader reader = new BufferedReader(new FileReader("file1.txt"));
+        BufferedWriter writer = new BufferedWriter(new FileWriter("file2.txt", true));
